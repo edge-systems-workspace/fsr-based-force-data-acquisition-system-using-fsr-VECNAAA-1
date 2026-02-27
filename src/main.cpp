@@ -23,10 +23,10 @@ void setup() {
 
     // TODO 4:
     // Print system initialization message
-    // Serial.println("==================================");
-    // Serial.println(" FSR Force Measurement System ");
-    // Serial.println(" System Initialized Successfully ");
-    // Serial.println("==================================");
+    Serial.println("==================================");
+    Serial.println(" FSR Force Measurement System ");
+    Serial.println(" System Initialized Successfully ");
+    Serial.println("==================================");
 }
 
 void loop() {
