@@ -37,8 +37,8 @@ void loop() {
 
     // TODO 6:
     // Print raw ADC value
-    // Serial.print("Raw ADC Value: ");
-    // Serial.println(fsrValue);
+    Serial.print("Raw ADC Value: ");
+    Serial.println(fsrValue);
 
     // TODO 7 & 8:
     // Apply simple threshold logic (detect pressure)
